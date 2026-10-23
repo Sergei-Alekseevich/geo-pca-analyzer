@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw files NCBI GEO
+*series_matrix.txt*
+*.txt.gz
+*.tsv.gz
+
+# File with results
+geo_pca_output/
+*.log
